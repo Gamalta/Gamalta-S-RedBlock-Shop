@@ -1,0 +1,74 @@
+Log:
+  File: true
+  Console: true
+Shops:                                             #Shop id -> file name
+  - "Ores"
+
+BannedWorlds:
+  - "world_nether"
+
+Permission:
+  Reload: "shop.reload"
+
+Default:
+  Type:
+    Normal:
+      Lore:
+        - "&a&lACHETER &7&o(Clique Gauche) &6&l» &a%buy% &e⛃"
+        - "&c&lVENDRE &7&o(Clique Droit) &6&l» &c%sell% &e⛃"
+        - "&6&l» &e&oClique &bmolette &7pour &6tout &c&oVendre &4&l&o!"
+    BuyOnly:
+      Lore:
+        - "&a&lACHETER &7&o(Clique Gauche) &6&l» &a%buy% &e⛃"
+    SellOnly:
+      Lore:
+        - "&c&lVENDRE &7&o(Clique Droit) &6&l» &c%sell% &e⛃"
+        - "&6&l» &e&oClique &bmolette &7pour &6tout &c&oVendre &4&l&o!"
+
+Buttons:
+  PREVIOUS:
+    CustomItem: "icon_lefth_arrow"
+  NEXT:
+    CustomItem: "icon_right_arrow"
+  SELL_MORE:
+    Type: GREEN_STAINED_GLASS_PANE
+    Amount: 64
+    Name: "&6&l» &aVendre &ed'&cavantage &4&l!"
+  SELL_ALL:
+    Type: GREEN_STAINED_GLASS_PANE
+    Amount: 64
+    Name: "&6&l» &aTous &cvendre &4&l!"
+  BUY_VALIDATE:
+    Type: GREEN_STAINED_GLASS_PANE
+    Amount: 64
+    Name: "&6&l» &aValider &evotre &cachat &4&l!"
+  SELL_VALIDATE:
+    Type: GREEN_STAINED_GLASS_PANE
+    Amount: 64
+    Name: "&6&l» &aValider &evotre &cvente &4&l!"
+  EXIT:
+    CustomItem: "icon_back"
+  SET_1:
+    Type: RED_STAINED_GLASS_PANE
+    Name: "&6&l» &cSelectionner &61 &eitem &4&l!"
+  SET_MAX_STACK_SIZE:
+    Type: GREEN_STAINED_GLASS_PANE
+    Name: "&6&l» &cMettre &7à &6%max_stack_size% &eitems &4&l!"
+  ADD_1:
+    Type: GREEN_STAINED_GLASS_PANE
+    Name: "&6&l» &aAjouter &61 &eitem &4&l!"
+  REMOVE_1:
+    Type: RED_STAINED_GLASS_PANE
+    Name: "&6&l» &cSupprimer &61&e items &4&l!"
+  ADD_10:
+    Type: GREEN_STAINED_GLASS_PANE
+    Amount: 10
+    Name: "&6&l» &aAjouter &610 &eitem &4&l!"
+  REMOVE_10:
+    Type: RED_STAINED_GLASS_PANE
+    Amount: 10
+    Name: "&6&l» &cSupprimer &610&e items &4&l!"
+  BUY_MORE:
+    Type: GREEN_STAINED_GLASS
+    Name: "&6&l» &aAcheter &6plus &4&l!"
+    Amount: 64

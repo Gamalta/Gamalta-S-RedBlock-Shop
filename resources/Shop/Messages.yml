@@ -1,0 +1,13 @@
+Log:
+  Buy: "%player% bought %amount% x %item% for %price%$"
+  Sell: "%player% sold %amount% x %item% for %price%$"
+NoMoney: "Vous n'avez pas l'argent pour acheter %amount% %item% %price%"
+NoItem: "Vous ne pouverz pas vendre %item% car vous n'en avez pas dans vÃ´tre inventaire"
+NoNumberItem: "Vous ne pouverz pas vendre %item% car vous n'en avez pas %amount% dans vôtre inventaire"
+InventoryFull: "Vous n'avez pas assez de place dans vôtre inventaire pour acheter %amount% d'%item%"
+Buy: "vous venez d'acheter %amount% x %item% pour %price%â‚€"
+Sell: "vous venez de vendre %amount% x %item% pour %price%â‚€"
+SellAll: "vous venez de tous vendre %amount% x %item% pour %price%â‚€"
+BannedWorlds: "vous ne pouvez pas utiliser le shop dans ce monde"
+Usage: "La commande est /shop reload"
+Reload: "Le plugin a bien été reload"

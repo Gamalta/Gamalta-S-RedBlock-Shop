@@ -1,0 +1,24 @@
+Name: "&6&o&lMagasin &aVendre &r%item%"
+ItemSlot: 22
+Size: 54
+Items:
+  18:
+    Button: SET_1
+  19:
+    Button: REMOVE_10
+  20:
+    Button: REMOVE_1
+  24:
+    Button: ADD_1
+  25:
+    Button: ADD_10
+  26:
+    Button: SET_MAX_STACK_SIZE
+  39:
+    Button: SELL_VALIDATE
+  40:
+    Button: SELL_MORE
+  41:
+    Button: EXIT
+  49:
+    Button: SELL_ALL

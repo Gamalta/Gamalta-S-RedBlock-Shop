@@ -1,0 +1,149 @@
+Name: 
+  - "&f\uF800\uF802\uF801&4Shop Minerais 1/2"
+  - "&f\uF800\uF803\uF801&4Shop Minerais 2/2"
+Size: 36
+Items:
+  0:
+    2:
+      Type: IRON_ORE
+      Name: "Minerai de fer"
+      Buy: 500
+      Sell: 250
+    3:
+      Type: REDSTONE_ORE
+      Name: "Minerai de redstone"
+      Buy: 500
+      Sell: 250
+    4:
+      Type: DIAMOND_ORE
+      Name: "Minerai de diamant"
+      Buy: 500
+      Sell: 250
+    5:
+      Type: COAL_ORE
+      Name: "Minerai de charbon"
+      Buy: 500
+      Sell: 250
+    6:
+      Type: GOLD_ORE
+      Name: "Minerai d'or"
+      Buy: 500
+      Sell: 250  
+    11:
+      Type: IRON_BLOCK
+      Name: "Bloc de fer"
+      Buy: 500
+      Sell: 250
+    12:
+      Type: REDSTONE_BLOCK
+      Name: "Bloc de redstone"
+      Buy: 500
+      Sell: 250     
+    13:
+      Type: DIAMOND_BLOCK
+      Name: "Bloc de diamant"
+      Buy: 500
+      Sell: 250     
+    14:
+      Type: COAL_BLOCK
+      Name: "Bloc de charbon"
+      Buy: 500
+      Sell: 250  
+    15:
+      Type: GOLD_BLOCK
+      Name: "Bloc d'or"
+      Buy: 500
+      Sell: 250
+    17:
+      Button: NEXT
+    20:
+      Type: IRON_INGOT
+      Name: "L'ingot de fer"
+      Buy: 500
+      Sell: 250
+    21:
+      Type: REDSTONE
+      Name: "Redstone"
+      Buy: 250
+      Sell: 125
+    22:
+      Type: DIAMOND
+      Name: "Diamant"
+      Buy: 200
+      Sell: 100
+    23:
+      Type: COAL
+      Name: "Charbon"
+      Buy: 100
+      Sell: 50
+    24:
+      Type: GOLD_INGOT
+      Name: "l'ingot d'or"
+      Buy: 50
+      Sell: 25
+    29:
+      Type: IRON_NUGGET
+      Name: "Pépite de fer"
+      Buy: 50
+      Sell: 25
+    31:
+      CustomItem: "icon_wallet"
+    33:
+      Type: GOLD_NUGGET
+      Name: "Pépite d'or"
+      Buy: 50
+      Sell: 33
+    35: 
+      Button: EXIT
+  1:
+    3:
+      Type: EMERALD_ORE
+      Name: "Minerai d'émeraude"
+      Buy: 500
+      Sell: 250 
+    4:
+      Type: LAPIS_ORE
+      Name: "Minerai de lapis lazuli"
+      Buy: 500
+      Sell: 250 
+    5:
+      Type: NETHER_QUARTZ_ORE
+      Name: "Minerai de quart du nether"
+      Buy: 500
+      Sell: 250 
+    9:
+      Button: PREVIOUS
+    12:
+      Type: EMERALD_BLOCK
+      Name: "Bloc d'émeraude"
+      Buy: 500
+      Sell: 250 
+    13:
+      Type: LAPIS_BLOCK
+      Name: "Bloc de lapis lazuli"
+      Buy: 500
+      Sell: 250 
+    14:
+      Type: QUARTZ_BLOCK
+      Name: "Bloc de quart du nether"
+      Buy: 500
+      Sell: 250 
+    21:
+      Type: EMERALD
+      Name: "Emeraude"
+      Buy: 250
+      Sell: 125
+    22:
+      Type: LAPIS_LAZULI
+      Name: "lapis lazuli"
+      Buy: 200
+      Sell: 100
+    23:
+      Type: QUARTZ
+      Name: "Quartz du nether"
+      Buy: 100
+      Sell: 50
+    31:
+      CustomItem: "icon_wallet"
+    35: 
+      Button: EXIT

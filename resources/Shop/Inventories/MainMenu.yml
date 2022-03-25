@@ -1,0 +1,8 @@
+Size: 36
+Name: "&6&o&lMagasin"
+Items:
+  13:
+    CustomItem: "icon_ores"
+    ShopId: "Ores"
+  35:
+    Button: EXIT

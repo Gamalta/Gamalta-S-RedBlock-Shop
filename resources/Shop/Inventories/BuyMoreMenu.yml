@@ -1,0 +1,15 @@
+Name: "&6&o&lMagasin &cAcheter &r%item%"
+Size: 54
+Stacks:
+  9: 1
+  10: 2
+  11: 3
+  12: 4
+  13: 5
+  14: 6
+  15: 7
+  16: 8
+  17: 9
+Items:
+  41:
+    Button: EXIT

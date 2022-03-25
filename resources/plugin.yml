@@ -1,0 +1,9 @@
+﻿name: Shop
+version: 1.0
+main: fr.gamalta.redblock.shop.Shop
+author: Gamalta
+depend: [RedCore, CustomItems, Vault, PlaceholderAPI]
+softdepend: []
+api-version: 1.17
+commands:
+  shop:
